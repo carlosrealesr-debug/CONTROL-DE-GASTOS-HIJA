@@ -1,0 +1,6 @@
+{
+  "name": "Control de Coparentalidad y Visitas",
+  "description": "Aplicación integral para gestionar calendarios de visitas, mensajería parental segura, control de gastos (cuota de alimentación, merienda, extras), reportes mensuales en PDF y acuerdos con firma digital.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
